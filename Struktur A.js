@@ -9,7 +9,7 @@ function showDetails(type) {
     if (type === 'putra') {
         window.location.href = 'Struktur B Putra.html'; // Ganti dengan nama file yang sesuai
     } else if (type === 'putri') {
-        window.location.href = 'Struktur B Putri.html'; // Ganti dengan nama file yang sesuai
+        window.location.href = 'struktur B Putri.html'; // Ganti dengan nama file yang sesuai
     }
 }
 function goBack() {
